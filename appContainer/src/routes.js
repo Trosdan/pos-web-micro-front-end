@@ -3,7 +3,6 @@ import {
   Routes as Switch,
   Route,
   useNavigate,
-  useRoutes,
   useLocation,
 } from 'react-router-dom';
 
