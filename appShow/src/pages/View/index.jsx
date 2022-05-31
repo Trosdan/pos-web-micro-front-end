@@ -36,13 +36,13 @@ export default function View({ location }) {
           <h3>Nome: {client?.nome}</h3>
           <div>
             <p>
-              <span>Altura:</span> {client?.altura}
+              <span>Altura:</span>&nbsp;{client?.altura}
             </p>
             <p>
-              <span>Peso:</span> {client?.peso}
+              <span>Peso:</span>&nbsp;{client?.peso}
             </p>
             <p>
-              <span>IMC:</span> {client?.imc}
+              <span>IMC:</span>&nbsp;{client?.imc}
             </p>
           </div>
         </>
